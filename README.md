@@ -228,3 +228,6 @@ This repository serves as the official landing page for Alwil Software Uninstall
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Alwil Software Uninstall Utility today!**
+
+---
+**Last updated:** 2026-09-07 09:59:20 UTC
