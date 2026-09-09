@@ -230,4 +230,4 @@ This repository serves as the official landing page for Alwil Software Uninstall
 **Get the most recent version of Alwil Software Uninstall Utility today!**
 
 ---
-**Last updated:** 2026-09-09 16:58:16 UTC
+**Last updated:** 2026-09-09 19:37:14 UTC
